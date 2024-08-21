@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pragathi Pai</h1>
 
-- 🌱 I’m currently learning **Machine Learning and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🔭 I have worked on **MERN websites**
 
